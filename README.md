@@ -1,5 +1,5 @@
 # multiperson-personalized
-This repository contains the code to evaluate the work presented in the article [Extending 3D body pose estimation for robotic-assistive therapies of autistic children](https://ieeexplore.ieee.org/document/10719777). 
+This repository contains the code to evaluate the work presented in the article [Extending 3D body pose estimation for robotic-assistive therapies of autistic children](https://ieeexplore.ieee.org/document/10719777). If you use any part of it, please cite:
 
 <pre lang="markdown"> @INPROCEEDINGS{Santos2024,
   author={Santos, Laura and Carvalho, Bernardo and Barata, Catarina and Santos-Victor, José},
